@@ -35,8 +35,18 @@ The goal is to assist healthcare professionals in making early diagnoses and sel
   *Artificial Intelligence and Data Science in Medical Engineering*  
   *School of Artificial Intelligence, Amrita University, Ettimadai, India*  
   `tejaprakash787@gmail.com`
-
-(You can add other group members here.)
+- Agolu. Guru Jaya Surya Yadav 
+  *Artificial Intelligence and Data Science in Medical Engineering*  
+  *School of Artificial Intelligence, Amrita University, Ettimadai, India*  
+  'agurujayasuryayadav@gmail.com'
+-S.V.S Ankith
+  *Artificial Intelligence and Data Science in Medical Engineering*  
+  *School of Artificial Intelligence, Amrita University, Ettimadai, India* 
+  'ankithsuraparaju9999@gmail.com'
+-J. Tej krishna sai
+  *Artificial Intelligence and Data Science in Medical Engineering*  
+  *School of Artificial Intelligence, Amrita University, Ettimadai, India* 
+  'Krishnasai3310@gmail.com'
 
 ## ▶️ Running the App
 
