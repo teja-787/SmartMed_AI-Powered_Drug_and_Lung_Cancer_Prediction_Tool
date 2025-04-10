@@ -48,7 +48,7 @@ The goal is to assist healthcare professionals in making early diagnoses and sel
   *School of Artificial Intelligence, Amrita University, Ettimadai, India* 
   'Krishnasai3310@gmail.com'
 
-## ▶️ Running the App
+##  Running the App
 
 1. Clone the repository:
    ```bash
