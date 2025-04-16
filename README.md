@@ -26,7 +26,7 @@ The goal is to assist healthcare professionals in making early diagnoses and sel
 
 ##  Technologies Used
 - Python, Pandas, Scikit-learn
-- Streamlit (for the frontend)
+- eamlit (for the f
 - Matplotlib / Seaborn
 - Machine Learning Algorithms (Random Forest, Logistic Regression, etc.)
 
@@ -38,19 +38,13 @@ The goal is to assist healthcare professionals in making early diagnoses and sel
 - Agolu. Guru Jaya Surya Yadav 
   *Artificial Intelligence and Data Science in Medical Engineering*  
   *School of Artificial Intelligence, Amrita University, Ettimadai, India*  
-  'agurujayasuryayadav@gmail.com'
+  `agurujayasuryayadav@gmail.com`
  - S.V.S Ankith
   *Artificial Intelligence and Data Science in Medical Engineering*  
-  *School of Artificial Intelligence, Amrita University, Ettimadai, India* 
-  'ankithsuraparaju9999@gmail.com'
+  *School of Artificial Intelligence, Amrita University, Ettimadai, India*
+  `ankithsuraparaju9999@gmail.com`
  - J. Tej krishna sai
   *Artificial Intelligence and Data Science in Medical Engineering*  
-  *School of Artificial Intelligence, Amrita University, Ettimadai, India* 
-  'Krishnasai3310@gmail.com'
+  *School of Artificial Intelligence, Amrita University, Ettimadai, India*
+  `Krishnasai3310@gmail.com`
 
-##  Running the App
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/SmartMed-AI.git
-   cd SmartMed-AI
